@@ -1,6 +1,16 @@
 # AI-Reparability-scores-analysis
-* The project provides a supervised and an unsupervised learning framework to evaluate the product repairability scores. An example of a smartphone dataset is used to demonstrate how the frameworks work.
+* The project provides a supervised and an unsupervised learning framework to evaluate the product repairability scores. An example of a smartphone dataset is used to demonstrate how the frameworks work. The models are built on pytorch and trained by GPU.
 
+## Install Dependencies ##
+* Python3
+* matplotlib
+* pandas
+* opencv-python
+* torch
+* torchvision
+* openpyxl
+* pytorch
+  
 ## Supervised learning framwork ##
 * The framework is shown in the below picture. The input is a teardown image, and the output is the repairability scores.
 ![alt text](https://github.com/haoyuliao/AI-Reparability-scores-analysis/blob/main/Figures/Sup.jpg?raw=true)
@@ -17,3 +27,17 @@
 
 * The ORB keypoints matching results of Huawei Mate 10 Pro (left) and LG G6 (right) with 79 matching keypoints are in the same cluster.
 ![alt text](https://github.com/haoyuliao/AI-Reparability-scores-analysis/blob/main/Figures/Cluster.jpg?raw=true)
+
+## Citation ##
+If you use the package, please cite the paper by the following BibTex:
+```
+@article{liao2021markov,
+  title={Automated evaluation and rating of product repairability using artificial intelligence},
+  author={Liao, Hao-yu and Behzad, Esmaeilian and Behdad, Sara},
+  journal={},
+  volume={},
+  pages={},
+  year={},
+  publisher={}
+}
+```
