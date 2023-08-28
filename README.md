@@ -4,6 +4,12 @@
 # Supervised learning framwork
 ![alt text](https://github.com/haoyuliao/AI-Reparability-scores-analysis/blob/main/Figures/Sup.jpg?raw=true)
 
-# Unsupervised learning framwokr
+
+![alt text](https://github.com/haoyuliao/AI-Reparability-scores-analysis/blob/main/Figures/RGB.jpg?raw=true)
+
+![alt text](https://github.com/haoyuliao/AI-Reparability-scores-analysis/blob/main/Figures/X-ray.jpg?raw=true)
+
+# Unsupervised learning framwork
 ![alt text](https://github.com/haoyuliao/AI-Reparability-scores-analysis/blob/main/Figures/Unsup.jpg?raw=true)
 
+![alt text](https://github.com/haoyuliao/AI-Reparability-scores-analysis/blob/main/Figures/Cluster.jpg?raw=true)
