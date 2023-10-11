@@ -30,7 +30,7 @@
 
 ## Trained models and dataset ##
 Since the trained models and dataset are too big to upload the GitHub. Both are available by downloading the link:
-[Trained models and dataset](https://uflorida-my.sharepoint.com/:u:/g/personal/haoyuliao_ufl_edu/ERKP9IgeyHZGkFeM4ihwkYgBEM8vmBfMT_T_Z-lrcB1wTg)
+[Trained models and dataset](https://uflorida-my.sharepoint.com/:f:/g/personal/haoyuliao_ufl_edu/EtKgjcOmIU1Hv-EwSLktHkQBo7D_Jlu3Da_ieYM9SREgjA?e=KLFdfC)
 
 ## Citation ##
 If you use the package, please cite the paper by the following BibTex:
